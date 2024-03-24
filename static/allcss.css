@@ -1,0 +1,25 @@
+.custom-text-1{
+    background-color: blueviolet;
+    color: aqua;
+    font-style: italic;
+    
+}
+
+.custom-text-2{
+    font-weight: bold;
+    color:grey;
+    font-style:oblique
+    
+}
+
+.custom-text-2{
+    color: purple;
+    font-style: initial;
+    
+}
+
+.hover-text:hover{
+    font: italic;
+    font-weight: bold;
+    color: red;
+}
